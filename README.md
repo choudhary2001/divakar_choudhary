@@ -5,6 +5,8 @@
 
 ![image](https://user-images.githubusercontent.com/54638339/173282613-74018d70-62c8-4a22-83d3-bedb1b2e87de.png)
 ![image](https://user-images.githubusercontent.com/54638339/173282791-110c651a-105b-45bc-b4d0-7a65208462f1.png)
+![image](https://user-images.githubusercontent.com/54638339/173282880-8383b5a5-18f1-48e7-9704-3104ad864c0f.png)
+![image](https://user-images.githubusercontent.com/54638339/173282948-aed69205-54b3-4ec3-94bb-3c94a15452a2.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
